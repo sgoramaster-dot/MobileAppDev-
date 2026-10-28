@@ -1,5 +1,4 @@
-# .gitignore
-
+# Keep project files safe from local build artifacts.
 *.iml
 .gradle
 /local.properties
